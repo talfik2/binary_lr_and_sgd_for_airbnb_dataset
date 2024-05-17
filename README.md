@@ -1,6 +1,6 @@
 # binary_lr_and_sgd_for_airbnb_dataset
 
-In this repo, I built a `Binary Logistic Regression` and `Schoastic Gredient Descent` Models that **predicts the house avaliability of AIRBNB Amsterdam listings.** While doing so, I've used the below columns in my dataset: 
+In this repo, I built a `Binary Logistic Regression` and `Schoastic Gredient Descent` Models that **predicts the house avaliability of AIRBNB Amsterdam listings.** It is a binary classification task we're deailing in here. While doing so, I've used the below columns in my dataset: 
 - Price
 - Adjusted price
 - Listing id
